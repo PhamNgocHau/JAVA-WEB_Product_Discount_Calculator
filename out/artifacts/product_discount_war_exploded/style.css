@@ -1,0 +1,75 @@
+#frm{
+    width: 500px;
+    height: 250px;
+    border: 2px solid blueviolet;
+    transform: translate(450px,100px);
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+#information{
+    margin: 10px;
+    float: left;
+    padding-left: 20px;
+    line-height: 40px;
+    padding-right: 30px;
+    font-size: 20px;
+    color: #E91E63;
+}
+input{
+    padding-left: 50px;
+    margin: 5px;
+    height: 30px;
+    margin-top: 10px;
+}
+#btn{
+    margin-left: 240px;
+    margin-top: 5px;
+}
+#frm1{
+    width: 500px;
+    height: 250px;
+    border: 2px solid blueviolet;
+    transform: translate(450px,100px);
+}
+.displayInformation{
+    color: blueviolet;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#content{
+    width: 450px;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    background: white;
+    border: 2px solid blueviolet;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+label{
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+    color: #E91E63;
+}
+
+#data input{
+    float: left;
+    width: 15em;
+    margin-bottom: .5em;
+}
+
+#buttons input{
+    float: left;
+    margin-bottom: .5em;
+}
+br{
+    clear: left;
+}
+
